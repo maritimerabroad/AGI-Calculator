@@ -5,23 +5,6 @@
 #This is released under the GPL V2
 
 
-
-# This function adds two numbers 
-def add(x, y):
-   return x + y
-
-# This function subtracts two numbers 
-def subtract(x, y):
-   return x - y
-
-# This function multiplies two numbers
-def multiply(x, y):
-   return x * y
-
-# This function divides two numbers
-def divide(x, y):
-   return x / y
-
 #Enter guideline amounts, agi's and rent reductions (if any)
 print("Welcome to AGI-Calculator")
 guideline = float(input("Please enter this year's guideline amount:"))
